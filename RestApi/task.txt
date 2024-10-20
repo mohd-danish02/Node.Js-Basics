@@ -1,0 +1,15 @@
+rest api -json 
+
+get/users=list all users done
+get/users/1=get user with id 1; done
+// dynamic path parameters 
+app.get('/api/user/:id',(req,res)=>{ colon : ka means dynamic value id done
+
+})
+get/users/2=get user with id 2done
+Post /users-creat new users 
+put/users = edit the user with id 1;
+delete.user/1-delete the user withid 1
+
+
+what is post man : 

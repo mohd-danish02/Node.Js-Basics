@@ -1,0 +1,17 @@
+types of module 3 
+1:local module : these are the module htat you can create yourself and use them in your application for example math.js we created and imported in the index.js file in previous tutoril 
+
+importing local module: => const moudleName=require('./filename.js');
+const moudleName=require('./fileName')
+{f1,f2,var}=require('./filename')
+
+
+2:core module => these module thath come with node.js by default 
+you do not have to dawnload them in your project 
+some the most popular and frequntly used core moudle are Fs(filesystem) os(operating system) , Path,etc 
+
+
+2.1 global core :->console.log('this is global moudle')
+2.2 non global core module :fs (filesystem) is the example of non global coremodule 
+
+3: third party module 
